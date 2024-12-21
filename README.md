@@ -53,10 +53,10 @@ Running the Bot
 
 Run the script to start the bot:
 
-bashCopy code
 
-`python your_script_name.py`
-
+```console
+python CVEChatBot.py
+```
 Commands
 --------
 
